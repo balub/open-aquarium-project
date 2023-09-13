@@ -1,0 +1,1 @@
+This repo is a collection of configs/guides to FOSS tools I use along with all software and hardware I have developed to help me manage and run my aquariums.
