@@ -1,0 +1,12 @@
+{
+  "name": "open-aquarium-project",
+  "version": "1.0.0",
+  "description": "This repo is a collection of configs/guides to FOSS tools I use along with all software and hardware I have developed to help me manage and run my aquariums.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
